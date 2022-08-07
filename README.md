@@ -1,8 +1,10 @@
 # Neural_Network_Charity_Analysis
 
-## The purpose of this analysis was to assist a foundation in predicting where they should place their investments using neural networks and machine learning. 
+## Overview
+The purpose of this analysis was to assist a foundation in predicting where they should place their investments using neural networks and machine learning. 
 
-## Results: Using bulleted lists and images to support your answers, address the following questions.
+## Results: 
+Using bulleted lists and images to support your answers, address the following questions.
 
 ### Data Preprocessing
 - Removed EIN and Name columns as these were identification columns with no bearing on the accuracy of the model.
